@@ -1,5 +1,6 @@
 const inputs = document.querySelectorAll('.input');
 
+
 const handleFocus = ({ target }) => {
     const span = target.previousElementSibling;
     span.classList.add('span-active');
@@ -12,9 +13,8 @@ const handleFocusOut = ({ target }) => {
     }
 }
 
+
+
 inputs.forEach((input) => input.addEventListener('focus', handleFocus));
 inputs.forEach((input) => input.addEventListener('focusout', handleFocusOut));
-
-//MINUTO 44 DO VIDEO
-
 
