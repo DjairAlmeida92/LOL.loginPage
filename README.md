@@ -8,4 +8,4 @@
 </h2>
 <br>
 <p align="center">
-Design of a pokedex using html, css and java script, fully responsive project from mobile to desktop. in the application we have several ways to search for pokemons and we also use an api.</p>
+Login page created with html, css and java script technologies, inspired by the game page league of legends, fully responsive.</p>
